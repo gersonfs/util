@@ -1,0 +1,9 @@
+{
+    "name": "Lab OneWeb",
+    "host": "lab.oneweb.com.br",
+    "user": "oneweb",
+    "home-page": "https://lab.oneweb.com.br/",
+    "version": "1.0.0",
+    "remote-web": "oneweb@lab.oneweb.com.br:lab.oneweb.com.br",
+    "dir": "~/lab.oneweb.com.br/"
+}
