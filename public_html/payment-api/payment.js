@@ -4,8 +4,7 @@ function onBuyClicked(event) {
 
   var supportedInstruments = [{
     supportedMethods: [
-      'visa', 'mastercard', 'amex', 'discover', 'maestro',
-      'diners', 'jcb', 'unionpay', 'bitcoin'
+      'basic-card', 'bitcoin'
     ]
   }];
 
