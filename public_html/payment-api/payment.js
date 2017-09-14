@@ -3,9 +3,7 @@ function onBuyClicked(event) {
   event.preventDefault();
 
   var supportedInstruments = [{
-    supportedMethods: [
-      'basic-card', 'bitcoin'
-    ]
+    supportedMethods: 'basic-card, bitcoin'
   }];
 
   var details = {
