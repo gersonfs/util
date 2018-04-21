@@ -1,6 +1,5 @@
 <?php
-header('Link: <jquery.validate.min.js>; rel=preload; as=script');
-header('Link: <jquery.min.js>; rel=preload; as=script');
+header('Link: <jquery.validate.min.js>; rel=preload; as=script, <jquery.min.js>; rel=preload; as=script');
 ?>
 <!DOCTYPE html>
 <html lang="en">
